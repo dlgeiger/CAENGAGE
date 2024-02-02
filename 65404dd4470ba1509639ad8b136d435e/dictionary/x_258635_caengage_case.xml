@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="af0345d8470ba1509639ad8b136d43f3" extends="sn_customerservice_case" label="Case" max_length="40" name="x_258635_caengage_case" type="collection"/>
+</database>
