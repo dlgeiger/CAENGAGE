@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>aca8fe386f0331003b3c498f5d3ee469</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="customer_contact">
+    <customer_contact action="INSERT_OR_UPDATE">
+        <account display_value="Elegant Communications">447832786f0331003b3c498f5d3ee452</account>
+        <accumulated_roles/>
+        <active>true</active>
+        <agent_status/>
+        <avatar/>
+        <building/>
+        <calendar_integration>1</calendar_integration>
+        <city/>
+        <company display_value="Elegant Communications">447832786f0331003b3c498f5d3ee452</company>
+        <cost_center/>
+        <country/>
+        <date_format/>
+        <default_perspective/>
+        <department/>
+        <edu_status>faculty</edu_status>
+        <email>ronalda.hawes@example.com</email>
+        <employee_number/>
+        <enable_multifactor_authn>false</enable_multifactor_authn>
+        <failed_attempts/>
+        <federated_id>OceXwp97d+21PT3deGXJwNSsyd/QGvpsoN14jMHa6+s=</federated_id>
+        <first_name>Ronald</first_name>
+        <gender/>
+        <geolocation_tracked>false</geolocation_tracked>
+        <hashed_user_id>1cc1fce9ec77b8b421a943e5cfd21f5d5e9d7ba3073cbaff3d8c59c7f6053198</hashed_user_id>
+        <home_phone/>
+        <internal_integration_user>false</internal_integration_user>
+        <introduction/>
+        <last_login/>
+        <last_login_device/>
+        <last_login_time/>
+        <last_name>Hawes</last_name>
+        <last_password/>
+        <last_position_update/>
+        <latitude/>
+        <ldap_server/>
+        <location/>
+        <locked_out>false</locked_out>
+        <longitude/>
+        <manager/>
+        <middle_name/>
+        <mobile_phone/>
+        <name>Ronald Hawes</name>
+        <notification>1</notification>
+        <on_schedule/>
+        <organization/>
+        <password_needs_reset>false</password_needs_reset>
+        <phone>(317) 752-6895</phone>
+        <photo/>
+        <preferred_language>en</preferred_language>
+        <primary_group/>
+        <roles/>
+        <schedule/>
+        <sn_tmt_core_external_id/>
+        <source/>
+        <state/>
+        <street/>
+        <sys_class_name>customer_contact</sys_class_name>
+        <sys_created_by>venki</sys_created_by>
+        <sys_created_on>2022-06-27 21:49:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aca8fe386f0331003b3c498f5d3ee469</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-15 17:30:04</sys_updated_on>
+        <time_format/>
+        <time_sheet_policy/>
+        <time_zone>US/Central</time_zone>
+        <title>VP - Products</title>
+        <user_name>ronald.hawes</user_name>
+        <user_password/>
+        <vip>false</vip>
+        <web_service_access_only>false</web_service_access_only>
+        <zip/>
+    </customer_contact>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:45:56</sys_created_on>
+        <sys_id>0b6304f647488a909639ad8b136d436f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ronald Hawes</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_0b6304f647488a909639ad8b136d436f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:45:56</sys_updated_on>
+        <tablename>customer_contact</tablename>
+    </sys_metadata_link>
+</record_update>

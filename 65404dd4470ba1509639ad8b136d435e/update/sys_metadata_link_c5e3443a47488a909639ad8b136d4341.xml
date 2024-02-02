@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c3c81dfa5b7520102dff5e92dc81c7ab</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_prd_invt_product_inventory">
+    <sn_prd_invt_product_inventory action="INSERT_OR_UPDATE">
+        <account display_value="Funco Intl">ffc68911c35420105252716b7d40dd55</account>
+        <additional_consumers/>
+        <additional_users/>
+        <consumer/>
+        <consumer_profile/>
+        <contact display_value="Sarah Johnson">51670151c35420105252716b7d40ddfe</contact>
+        <name>Mobile SMS Service PI0000222</name>
+        <number>PI0000222</number>
+        <parent_sold_product display_value="Mobile Service PI0000221">c3c81dfa5b7520102dff5e92dc81c7aa</parent_sold_product>
+        <prd_offering display_value="Premium Unlimited mobile plan">de33104fc30020105252716b7d40ddd0</prd_offering>
+        <product display_value="Mobile SMS Service PRD00000008">928a30ee5be020102dff5e92dc81c719</product>
+        <sn_prd_invt_external_id/>
+        <sn_prd_invt_location/>
+        <specification display_value="Mobile SMS Service">5f9ae5e7c32310105252716b7d40ddea</specification>
+        <state>active</state>
+        <sys_class_name>sn_prd_invt_product_inventory</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-12 22:41:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c3c81dfa5b7520102dff5e92dc81c7ab</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-12 22:47:42</sys_updated_on>
+    </sn_prd_invt_product_inventory>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:47:58</sys_created_on>
+        <sys_id>c5e3443a47488a909639ad8b136d4341</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mobile SMS Service PI0000222</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_c5e3443a47488a909639ad8b136d4341</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:47:58</sys_updated_on>
+        <tablename>sn_install_base_sold_product</tablename>
+    </sys_metadata_link>
+</record_update>

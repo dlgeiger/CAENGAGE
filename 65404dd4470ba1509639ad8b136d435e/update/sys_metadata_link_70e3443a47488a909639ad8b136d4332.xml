@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b67fd87ec3603010abc8b5183c40dddf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_prd_invt_product_inventory">
+    <sn_prd_invt_product_inventory action="INSERT_OR_UPDATE">
+        <account display_value="Funco Intl">ffc68911c35420105252716b7d40dd55</account>
+        <additional_consumers/>
+        <additional_users/>
+        <consumer/>
+        <consumer_profile/>
+        <contact display_value="Sally Thomas">eaf68911c35420105252716b7d40ddde</contact>
+        <name>IP Sec Tunnel PI0000029</name>
+        <number>PI0000029</number>
+        <parent_sold_product display_value="SD WAN Security Service PI0000028">be7fd87ec3603010abc8b5183c40ddde</parent_sold_product>
+        <prd_offering display_value="Premium SD-WAN Offering">69017a0f536520103b6bddeeff7b127d</prd_offering>
+        <product display_value="IP Sec Tunnel PRD00001967">541b92c7532520103b6bddeeff7b12ab</product>
+        <sn_prd_invt_external_id/>
+        <sn_prd_invt_location display_value="100 South Charles Street, Baltimore,MD">25ab9c4d0a0a0bb300f7dabdc0ca7c1c</sn_prd_invt_location>
+        <specification display_value="IP Sec Tunnel">e23ae2d01bb420106ba59acf034bcb56</specification>
+        <state>active</state>
+        <sys_class_name>sn_prd_invt_product_inventory</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-01-08 11:24:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b67fd87ec3603010abc8b5183c40dddf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-01-08 12:02:00</sys_updated_on>
+    </sn_prd_invt_product_inventory>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:47:58</sys_created_on>
+        <sys_id>70e3443a47488a909639ad8b136d4332</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IP Sec Tunnel PI0000029</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_70e3443a47488a909639ad8b136d4332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:47:58</sys_updated_on>
+        <tablename>sn_install_base_sold_product</tablename>
+    </sys_metadata_link>
+</record_update>

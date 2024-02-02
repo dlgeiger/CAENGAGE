@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>30b7643ac3a03010abc8b5183c40dd4b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_install_base_m2m_installed_product">
+    <sn_install_base_m2m_installed_product action="INSERT_OR_UPDATE">
+        <install_base_item display_value="SD WAN Security Service SO0000010">38b7643ac3a03010abc8b5183c40dd0c</install_base_item>
+        <number>IBPRD0000014</number>
+        <sold_product display_value="SD WAN Security Service PI0000028">be7fd87ec3603010abc8b5183c40ddde</sold_product>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-05 12:00:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>30b7643ac3a03010abc8b5183c40dd4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-05 12:00:02</sys_updated_on>
+    </sn_install_base_m2m_installed_product>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:51:50</sys_created_on>
+        <sys_id>6dc40c7a47488a909639ad8b136d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IBPRD0000014</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_6dc40c7a47488a909639ad8b136d4347</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:51:50</sys_updated_on>
+        <tablename>sn_install_base_m2m_installed_product</tablename>
+    </sys_metadata_link>
+</record_update>

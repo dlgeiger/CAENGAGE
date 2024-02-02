@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1da01c1fc312310015519f2974d3ae4a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="customer_account">
+    <customer_account action="INSERT_OR_UPDATE">
+        <account_code>~~~~28</account_code>
+        <account_parent/>
+        <account_path>~~~~28</account_path>
+        <active_escalation/>
+        <apple_icon/>
+        <assumed_name/>
+        <banner_image/>
+        <banner_image_light/>
+        <banner_text>Service Management</banner_text>
+        <business_owners/>
+        <business_structure/>
+        <city>San Jose</city>
+        <contact display_value="">d407f9f7c312310015519f2974d3ae7a</contact>
+        <coordinates_retrieved_on/>
+        <country>USA</country>
+        <customer>true</customer>
+        <discount/>
+        <email/>
+        <fax_phone/>
+        <fiscal_year/>
+        <identification_number/>
+        <incorporated_on/>
+        <industry/>
+        <lat_long_error/>
+        <latitude>37.4291968</latitude>
+        <legal_entity_name/>
+        <longitude>-121.9056287</longitude>
+        <manufacturer>false</manufacturer>
+        <market_cap>0</market_cap>
+        <minority_ownership_status/>
+        <name>KNow Technologies</name>
+        <notes/>
+        <num_employees/>
+        <number>ACCT0000018</number>
+        <parent/>
+        <partner>false</partner>
+        <phone>+1 408 669 3443</phone>
+        <primary>false</primary>
+        <primary_contact/>
+        <primary_external_contact/>
+        <profits>0</profits>
+        <publicly_traded>false</publicly_traded>
+        <rank_tier/>
+        <registration_code>KNOW</registration_code>
+        <relationship_start_date/>
+        <revenue_per_year>0</revenue_per_year>
+        <rural_based_status/>
+        <secondary_external_contacts/>
+        <secondary_internal_contacts/>
+        <sn_tmt_core_external_id/>
+        <state>California</state>
+        <status/>
+        <stock_price/>
+        <stock_symbol/>
+        <street>100 Main St</street>
+        <sys_class_name>customer_account</sys_class_name>
+        <sys_created_by>venki</sys_created_by>
+        <sys_created_on>2022-06-01 21:12:30</sys_created_on>
+        <sys_id>1da01c1fc312310015519f2974d3ae4a</sys_id>
+        <sys_mod_count>21</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-14 19:39:42</sys_updated_on>
+        <tax_id/>
+        <theme/>
+        <total_unique_subscribers/>
+        <trademark/>
+        <tribal_affiliation_status/>
+        <vendor>false</vendor>
+        <vendor_manager/>
+        <vendor_score/>
+        <vendor_state/>
+        <vendor_type/>
+        <website>www.knowtech.com</website>
+        <women_ownership_status/>
+        <zip>95110</zip>
+    </customer_account>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:43:49</sys_created_on>
+        <sys_id>44f2c4b647488a909639ad8b136d436b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KNow Technologies</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_44f2c4b647488a909639ad8b136d436b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:43:49</sys_updated_on>
+        <tablename>customer_account</tablename>
+    </sys_metadata_link>
+</record_update>

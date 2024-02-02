@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4c08adb20ff30010fe85fb8585767e61</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="customer_account">
+    <customer_account action="INSERT_OR_UPDATE">
+        <account_code>####24</account_code>
+        <account_parent/>
+        <account_path>####24</account_path>
+        <active_escalation/>
+        <apple_icon/>
+        <assumed_name/>
+        <banner_image/>
+        <banner_image_light/>
+        <banner_text/>
+        <business_owners/>
+        <business_structure/>
+        <city>Riverside</city>
+        <contact/>
+        <coordinates_retrieved_on/>
+        <country>USA</country>
+        <customer>true</customer>
+        <discount/>
+        <email/>
+        <fax_phone/>
+        <fiscal_year/>
+        <identification_number/>
+        <incorporated_on/>
+        <industry/>
+        <lat_long_error/>
+        <latitude/>
+        <legal_entity_name/>
+        <longitude/>
+        <manufacturer>false</manufacturer>
+        <market_cap>0</market_cap>
+        <minority_ownership_status/>
+        <name>Newex</name>
+        <notes/>
+        <num_employees/>
+        <number>ACCT0010024</number>
+        <parent/>
+        <partner>false</partner>
+        <phone/>
+        <primary>false</primary>
+        <primary_contact/>
+        <primary_external_contact/>
+        <profits>0</profits>
+        <publicly_traded>false</publicly_traded>
+        <rank_tier/>
+        <registration_code/>
+        <relationship_start_date/>
+        <revenue_per_year>0</revenue_per_year>
+        <rural_based_status/>
+        <secondary_external_contacts/>
+        <secondary_internal_contacts/>
+        <sn_tmt_core_external_id/>
+        <state>CA</state>
+        <status/>
+        <stock_price/>
+        <stock_symbol/>
+        <street/>
+        <sys_class_name>customer_account</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-30 17:31:35</sys_created_on>
+        <sys_id>4c08adb20ff30010fe85fb8585767e61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-30 18:19:49</sys_updated_on>
+        <tax_id/>
+        <theme/>
+        <total_unique_subscribers/>
+        <trademark/>
+        <tribal_affiliation_status/>
+        <vendor>false</vendor>
+        <vendor_manager/>
+        <vendor_score/>
+        <vendor_state/>
+        <vendor_type/>
+        <website/>
+        <women_ownership_status/>
+        <zip/>
+    </customer_account>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:43:50</sys_created_on>
+        <sys_id>94f2c4b647488a909639ad8b136d4391</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Newex</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_94f2c4b647488a909639ad8b136d4391</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:43:50</sys_updated_on>
+        <tablename>customer_account</tablename>
+    </sys_metadata_link>
+</record_update>

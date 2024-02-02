@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c313289e47bb35509639ad8b136d4349</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_install_base_related_party">
+    <sn_install_base_related_party action="INSERT_OR_UPDATE">
+        <account display_value="Reseller XZY">de8d7f9547fefd909639ad8b136d4362</account>
+        <consumer/>
+        <contact display_value="Ben XYZ">ead26cde47bb35509639ad8b136d43b8</contact>
+        <install_base_item display_value="Router 123X">59a640ed477231d09639ad8b136d43ac</install_base_item>
+        <responsibility display_value="Authorized Representative">c009bbedb3730010700b4d43c6a8dcef</responsibility>
+        <sys_class_name>sn_install_base_related_party</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-19 20:31:56</sys_created_on>
+        <sys_id>c313289e47bb35509639ad8b136d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-19 20:31:56</sys_updated_on>
+        <type display_value="Authorized Contact">68ec8b2965e99110f87764df53db779f</type>
+        <user/>
+    </sn_install_base_related_party>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:52:18</sys_created_on>
+        <sys_id>64e48c7a47488a909639ad8b136d43d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Created 2024-01-19 12:31:56</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_64e48c7a47488a909639ad8b136d43d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:52:18</sys_updated_on>
+        <tablename>sn_install_base_related_party</tablename>
+    </sys_metadata_link>
+</record_update>

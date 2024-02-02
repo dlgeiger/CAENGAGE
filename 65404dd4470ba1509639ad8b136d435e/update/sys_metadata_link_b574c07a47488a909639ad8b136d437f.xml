@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7f4395f0df031100a9e78b6c3df2637f</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_covers_location">
+    <sys_user_covers_location action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <inherited>true</inherited>
+        <inherited_from/>
+        <location display_value="San Diego">108752c8c611227501d4ab0e392ba97f</location>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-13 22:03:33</sys_created_on>
+        <sys_id>7f4395f0df031100a9e78b6c3df2637f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-13 22:03:33</sys_updated_on>
+        <user display_value="WM InitiatorQualifier">780395f0df031100a9e78b6c3df2631f</user>
+    </sys_user_covers_location>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:50:29</sys_created_on>
+        <sys_id>b574c07a47488a909639ad8b136d437f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WM InitiatorQualifier</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_b574c07a47488a909639ad8b136d437f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:50:29</sys_updated_on>
+        <tablename>sys_user_covers_location</tablename>
+    </sys_metadata_link>
+</record_update>

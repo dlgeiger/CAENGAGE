@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>02fed0c43bc02300bfe04d72f3efc4f8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_customerservice_case">
+    <sn_customerservice_case action="INSERT_OR_UPDATE">
+        <account display_value="Advances Super Computing">dc5dd0843bc02300bfe04d72f3efc41e</account>
+        <action_status/>
+        <active>true</active>
+        <active_account_escalation/>
+        <active_escalation/>
+        <activity_due/>
+        <additional_assignee_list/>
+        <agile_story/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <asset/>
+        <assigned_on/>
+        <assigned_to/>
+        <assignment_group/>
+        <auto_close>false</auto_close>
+        <auto_created_case>false</auto_created_case>
+        <business_duration/>
+        <business_impact/>
+        <business_service/>
+        <calendar_duration/>
+        <case>Upgrade mobile device​CS0001036</case>
+        <case_report display_value="">470f58c43bc02300bfe04d72f3efc4f6</case_report>
+        <category>1</category>
+        <cause/>
+        <caused_by/>
+        <change/>
+        <child_case_creation_progress>false</child_case_creation_progress>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <consumer/>
+        <consumer_profile/>
+        <contact display_value="Amy Chen">b88d14843bc02300bfe04d72f3efc4cd</contact>
+        <contact_local_time/>
+        <contact_time_zone/>
+        <contact_type>web</contact_type>
+        <contract/>
+        <contributor_groups/>
+        <contributor_users/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <description/>
+        <due_date/>
+        <entitlement/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <first_response_time/>
+        <follow_the_sun>false</follow_the_sun>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <incident/>
+        <initiated_as_request>false</initiated_as_request>
+        <install_base/>
+        <internal_contact/>
+        <internal_user/>
+        <knowledge>false</knowledge>
+        <location/>
+        <made_sla>true</made_sla>
+        <major_case_state/>
+        <needs_attention>false</needs_attention>
+        <notes_to_comments>false</notes_to_comments>
+        <notify>1</notify>
+        <number>CS0001036</number>
+        <opened_at>2018-08-15 20:51:28</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <parent/>
+        <partner/>
+        <partner_contact/>
+        <priority>4</priority>
+        <proactive>false</proactive>
+        <probable_cause/>
+        <problem/>
+        <product/>
+        <reassignment_count>0</reassignment_count>
+        <recipient_list/>
+        <rejection_goto/>
+        <related_party_consumers/>
+        <related_party_users/>
+        <resolution_code/>
+        <resolved_at/>
+        <resolved_by/>
+        <route_reason/>
+        <service/>
+        <service_offering/>
+        <short_description>Upgrade mobile device</short_description>
+        <skills/>
+        <sla_due/>
+        <sn_app_cs_social_social_profile/>
+        <sn_esign_document/>
+        <sn_esign_esignature_configuration/>
+        <sn_fin_accounting_period/>
+        <sold_product/>
+        <stage/>
+        <state>1</state>
+        <subcategory>0</subcategory>
+        <support_manager/>
+        <sync_driver>false</sync_driver>
+        <sys_class_name>sn_customerservice_case</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-15 20:51:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02fed0c43bc02300bfe04d72f3efc4f8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-15 15:45:53</sys_updated_on>
+        <task_effective_number>CS0001036</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </sn_customerservice_case>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:47:26</sys_created_on>
+        <sys_id>c9c3003a47488a909639ad8b136d43ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CS0001036</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_c9c3003a47488a909639ad8b136d43ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:47:26</sys_updated_on>
+        <tablename>sn_customerservice_case</tablename>
+    </sys_metadata_link>
+</record_update>

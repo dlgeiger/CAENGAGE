@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6a91bc3577b301108e191e599a5a99ab</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_prd_invt_product_inventory">
+    <sn_prd_invt_product_inventory action="INSERT_OR_UPDATE">
+        <account display_value="Funco Intl">ffc68911c35420105252716b7d40dd55</account>
+        <additional_consumers/>
+        <additional_users/>
+        <consumer/>
+        <consumer_profile/>
+        <contact display_value="Sally Thomas">eaf68911c35420105252716b7d40ddde</contact>
+        <name>Routing and Configuration PI0000052</name>
+        <number>PI0000052</number>
+        <parent_sold_product display_value="SD-WAN Routing PI0000051">a691bc3577b301108e191e599a5a99a5</parent_sold_product>
+        <prd_offering display_value="Premium SD-WAN Offering v2">ff93e80477f301108b2a1e599a5a9901</prd_offering>
+        <product display_value="Routing and Configuration PRD00001966">ce0b52c7532520103b6bddeeff7b12f5</product>
+        <sn_prd_invt_external_id/>
+        <sn_prd_invt_location/>
+        <specification display_value="Routing and Configuration">aec57e981bb420106ba59acf034bcb08</specification>
+        <state>active</state>
+        <sys_class_name>sn_prd_invt_product_inventory</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2026-04-24 19:44:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6a91bc3577b301108e191e599a5a99ab</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-04-24 20:08:55</sys_updated_on>
+    </sn_prd_invt_product_inventory>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-02 17:47:57</sys_created_on>
+        <sys_id>28e3043a47488a909639ad8b136d43f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Routing and Configuration PI0000052</sys_name>
+        <sys_package display_value="CAENGAGE" source="x_258635_caengage">65404dd4470ba1509639ad8b136d435e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CAENGAGE">65404dd4470ba1509639ad8b136d435e</sys_scope>
+        <sys_update_name>sys_metadata_link_28e3043a47488a909639ad8b136d43f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-02 17:47:57</sys_updated_on>
+        <tablename>sn_install_base_sold_product</tablename>
+    </sys_metadata_link>
+</record_update>
